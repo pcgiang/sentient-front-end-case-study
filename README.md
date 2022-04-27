@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sentient Front-end Case Study
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,6 +39,29 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Other Libraries Used:
+
+### Material UI Installation:
+
+With npm:
+`npm install @mui/material @emotion/react @emotion/styled`
+
+With yarn
+`yarn add @mui/material @emotion/react @emotion/styled`
+
+More info: [Material UI Installation](https://mui.com/material-ui/getting-started/installation/)
+
+### React-router-dom Installation:
+
+With npm:
+`npm install react-router-dom@6`
+
+With yarn:
+`yarn add react-router-dom@6`
+
+More info: [React-router-dom Installation](https://reactrouter.com/docs/en/v6/getting-started/installation)
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -68,26 +91,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Other Libraries:
-
-### Material UI Installation:
-
-With npm:
-`npm install @mui/material @emotion/react @emotion/styled`
-
-With yarn
-`yarn add @mui/material @emotion/react @emotion/styled`
-
-More info: [Material UI Installation](https://mui.com/material-ui/getting-started/installation/)
-
-### React-router-dom Installation:
-
-With npm:
-`npm install react-router-dom@6`
-
-With yarn:
-`yarn add react-router-dom@6`
-
-More info: [React-router-dom Installation](https://reactrouter.com/docs/en/v6/getting-started/installation)
-
